@@ -34,7 +34,7 @@ namespace AzirSharp
 
         public static void setSkillShots()
         {
-            Q = new Spell(SpellSlot.Q, 1075);
+            Q = new Spell(SpellSlot.Q, 875);
             W = new Spell(SpellSlot.W, 450);
             E = new Spell(SpellSlot.E, 1150);
             R = new Spell(SpellSlot.R, 250);
